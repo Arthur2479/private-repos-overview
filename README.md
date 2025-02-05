@@ -1,6 +1,6 @@
 # Work on Private Repositories
 
-This repository aims to provide an overview of the private repositories that I work / have worked on.
+This repository aims to provide an overview of the private repositories that I work / have worked on. They are private due to the strictly confidential nature of the projects.
 
 Table of contents:
 
