@@ -53,11 +53,13 @@ It sure was a great experience and I learned a lot from it. Plus the project was
 
 ### Stats
 
-<img src="https://img.shields.io/badge/Hours-~450-blue?style=flat&color=%232fb4b6&labelColor=%231b708a" />
-<img src="https://img.shields.io/badge/Lines of code-~11000-blue?style=flat&color=%232fb4b6&labelColor=%231b708a" />
+<a href="#"><img src="https://img.shields.io/badge/Hours-~450-blue?style=flat&color=%232fb4b6&labelColor=%231b708a" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Lines of code-~11000-blue?style=flat&color=%232fb4b6&labelColor=%231b708a" /></a>
 
-<img src="https://img.shields.io/badge/Start date-2023--08--04-blue?style=flat&color=%232fb4b6&labelColor=%231b708a" />
-<img src="https://img.shields.io/badge/End date----blue?style=flat&color=%232fb4b6&labelColor=%231b708a" />
+
+<a href="#"><img src="https://img.shields.io/badge/Start date-2023--08--04-blue?style=flat&color=%232fb4b6&labelColor=%231b708a" /></a>
+<a href="#"><img src="https://img.shields.io/badge/End date----blue?style=flat&color=%232fb4b6&labelColor=%231b708a" /></a>
+
 
 
 <br>
