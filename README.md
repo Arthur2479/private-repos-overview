@@ -40,21 +40,20 @@ It sure was a great experience and I learned a lot from it. Plus the project was
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" width="52" title="FastAPI" alt ="Fastapi logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" width="52" title="PostgreSQL" alt ="PostgreSQL logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" height="40" width="52" title="SQLAlchemy" alt ="SQLAlchemy logo" />
+</div>
 
-
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" height="40" width="52" title="Poetry for Python" alt ="Poetry logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="52" title="Docker" alt ="Docker logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" width="52" title="GitHub" alt ="GitHub logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="40" width="52" title="JetBrains Pycharm" alt ="Pycharm logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" width="52" title="Notion" alt ="Notion logo" />
-
-
 </div>
 
 ### Stats
 
 <a href="#"><img src="https://img.shields.io/badge/Hours-~450-blue?style=flat&color=%232fb4b6&labelColor=%231b708a" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Lines of code-~11000-blue?style=flat&color=%232fb4b6&labelColor=%231b708a" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Lines of code-~11'000-blue?style=flat&color=%232fb4b6&labelColor=%231b708a" /></a>
 
 
 <a href="#"><img src="https://img.shields.io/badge/Start date-2023--08--04-blue?style=flat&color=%232fb4b6&labelColor=%231b708a" /></a>
