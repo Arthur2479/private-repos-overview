@@ -65,4 +65,6 @@ It sure was a great experience and I learned a lot from it. Plus the project was
 
 ## 2. Folio
 
+Folio is a platform that allows legal professionals to manage trademark portfolios for their clients. It is a new project that I am currently working on at EasyLaw's clients request.
+
 More to come...
