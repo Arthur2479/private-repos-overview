@@ -57,7 +57,7 @@ It sure was a great experience and I learned a lot from it. Plus the project was
 
 
 <a href="#"><img src="https://img.shields.io/badge/Start date-2023--08--04-blue?style=flat&color=%232fb4b6&labelColor=%231b708a" /></a>
-<a href="#"><img src="https://img.shields.io/badge/End date----blue?style=flat&color=%232fb4b6&labelColor=%231b708a" /></a>
+<a href="#"><img src="https://img.shields.io/badge/End date-2025--08-blue?style=flat&color=%232fb4b6&labelColor=%231b708a" /></a>
 
 
 
@@ -65,6 +65,50 @@ It sure was a great experience and I learned a lot from it. Plus the project was
 
 ## 2. Folio
 
-Folio is a platform that allows legal professionals to manage trademark portfolios for their clients. It is a new project that I am currently working on at EasyLaw's clients request.
+Folio is a platform that allows legal professionals to manage a portfolio of trademarks, patents, designs and domain names for their clients. It is a project I am working on at the request of EasyLaw's clients. This time its a web platform built using NestJS and Angular and deployed on the client's server using Docker. It has three major goals:
 
-More to come...
+- Improve efficiency and reduce time spent handling repetitive tasks
+- Reduce human error
+- Centralise and standardise portfolios across the lawyers of the law firm
+
+On top of managing the portfolios directly in the software, Folio also produces documents (`Excel` and `PDF`) and pre-fills mails addressed to the firm's clients. To help users get started and make sure they keep using it without help, I also wrote a built-in help center (built with MkDocs) documenting every feature and workflow.
+
+I started coding this project entirely by hand. Then, about halfway through, I gradually switched to LLM-assisted development (Claude Code) to ship faster while keeping control of the code. I am an enthusiastic developer and enjoye writing code myself, but I also know that it is essential to learn how to work with AI, and it was a great way to learn hands-on.
+
+### Challenges
+As with EasyLaw, this project came with challenges. One of them was understanding the inner workings of Intellectual Property (IP) laws, how they work in Switzerland and globally. I also had to take into account the diverse workflows and habits of each lawyer to make sure the software was as easy to use and as natural as possible for them. On top of that, the software is used by multiple people with different access levels and roles, which made me learn how to handle and implement secure user accounts, role-based access, ... Finally, I wanted to make sure the UX was on point so I put a lot of work into polishing that, checking in regularly with the end users.
+
+On the other hand, I benefited from experience gained during EasyLaw's development. For instance, I already had lots of tools to generate `Excel documents` with Python code which I reused here.
+
+### Stack and tools
+
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="52" title="TypeScript" alt="TypeScript logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" width="52" title="NestJS" alt="NestJS logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" width="52" title="Angular" alt="Angular logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/primeng/primeng-original.svg" height="40" width="52" title="PrimeNG" alt="PrimeNG logo" />
+<img src="assets/typeorm.svg" height="40" width="52" title="TypeORM" alt="TypeORM logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="52" title="Python" alt="Python logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" width="52" title="FastAPI" alt="FastAPI logo" />
+</div>
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" width="52" title="PostgreSQL" alt="PostgreSQL logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40" width="52" title="Swagger" alt="Swagger logo" />
+<img src="assets/mkdocs-material.svg" height="40" width="52" title="Material for MkDocs" alt="Material for MkDocs logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="52" title="Docker" alt="Docker logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg" height="40" width="52" title="Traefik" alt="Traefik logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="40" width="52" title="GitLab" alt="GitLab logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="52" title="Visual Studio Code" alt="VS Code logo" />
+</div>
+
+### Stats
+
+<a href="#"><img src="https://img.shields.io/badge/Hours-~300-blue?style=flat&color=%232fb4b6&labelColor=%231b708a" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Lines of code-~17'000-blue?style=flat&color=%232fb4b6&labelColor=%231b708a" /></a>
+
+
+<a href="#"><img src="https://img.shields.io/badge/Start date-2025--03-blue?style=flat&color=%232fb4b6&labelColor=%231b708a" /></a>
+<a href="#"><img src="https://img.shields.io/badge/End date-ongoing-blue?style=flat&color=%232fb4b6&labelColor=%231b708a" /></a>
+
